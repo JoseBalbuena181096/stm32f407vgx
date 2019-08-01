@@ -1,0 +1,4 @@
+DESCR Aktuatoren
+325 96 1068 1234 0.500000 0 0
+2 1 lsol.ct
+3 1 mot.ct

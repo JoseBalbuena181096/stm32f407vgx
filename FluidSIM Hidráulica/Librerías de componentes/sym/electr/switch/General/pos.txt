@@ -1,0 +1,5 @@
+DESCR Allgemeine Schalter
+325 96 1068 1234 0.500000 0 0
+2 1 gs2.ct
+3 1 gs1.ct
+4 1 gs3.ct

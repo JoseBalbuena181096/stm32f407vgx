@@ -1,0 +1,5 @@
+DESCR Regler
+1 -3 606 918 0.500000 0 0
+2 1 compare.ct
+3 1 contrpid.ct
+4 1 control.ct

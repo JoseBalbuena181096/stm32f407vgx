@@ -1,0 +1,14 @@
+DESCR Ladderdiagramm-Symbole
+325 96 1068 1234 0.500000 0 0
+2 1 l13.ct
+3 1 l12.ct
+4 1 l4.ct
+5 1 l5.ct
+1 2 l6.ct
+2 2 l1.ct
+3 2 l2.ct
+4 2 l7.ct
+5 2 l9.ct
+1 3 l10.ct
+2 3 l11.ct
+3 3 l8.ct

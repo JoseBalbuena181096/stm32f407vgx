@@ -1,0 +1,9 @@
+MapPIN_Ophyra.c:24:19:pfSPI_WRITE	8	static
+MapPIN_Ophyra.c:79:19:pfDELAY_MS	8	static
+MapPIN_Ophyra.c:30:19:pfTFT_CS_GPIO	8	static
+MapPIN_Ophyra.c:44:19:pfTFT_RS_GPIO	8	static
+MapPIN_Ophyra.c:57:19:pfTFT_RESET_GPIO	8	static
+MapPIN_Ophyra.c:69:19:pfTFT_BACKLIGHT_GPIO	8	static
+MapPIN_Ophyra.c:84:19:TFT_Init	8	static
+MapPIN_Ophyra.c:96:19:TFT_PrintStr	8	static
+MapPIN_Ophyra.c:105:19:TFT_GotoXY	0	static

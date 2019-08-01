@@ -1,0 +1,6 @@
+DESCR Spannungsversorgung
+325 96 1068 1234 0.500000 0 0
+2 1 es1.ct
+3 1 es2.ct
+4 1 generat.ct
+5 1 spc.ct

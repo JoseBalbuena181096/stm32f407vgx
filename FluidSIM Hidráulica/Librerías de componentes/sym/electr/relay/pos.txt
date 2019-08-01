@@ -1,0 +1,11 @@
+DESCR Relais
+325 96 1068 1234 0.500000 0 0
+2 1 re2.ct
+3 1 re4.ct
+4 1 re3.ct
+5 1 re1.ct
+1 2 mi1.ct
+2 2 amp1.ct
+3 2 amp2.ct
+4 2 pvalsol.ct
+5 2 cur_lim.ct

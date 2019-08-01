@@ -1,0 +1,9 @@
+DESCR Elektrik
+325 96 1068 1234 0.500000 0 0
+2 1 actuator
+3 1 supply
+4 1 sensor
+5 1 relay
+1 2 switch
+2 2 control
+3 2 ladder

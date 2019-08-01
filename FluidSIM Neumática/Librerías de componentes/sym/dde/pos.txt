@@ -1,0 +1,6 @@
+DESCR EasyPort/OPC/DDE
+325 96 1068 1234 0.500000 0 0
+2 1 multip.ct
+3 1 multi_io.ct
+4 1 fs_in.ct
+5 1 fs_out.ct
